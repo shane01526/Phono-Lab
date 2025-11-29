@@ -1,0 +1,8 @@
+streamlit
+allosaurus
+panphon
+praat-parselmouth
+numpy
+matplotlib
+scipy
+pydub
